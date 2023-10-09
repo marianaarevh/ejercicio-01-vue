@@ -83,7 +83,7 @@ p, li {
     font-size: 1.2rem;
 }
 #inicio {
-    background-color: #34495e;
+    background-color: #364F6B;
     margin-left: 0;
     margin-right: 0;
 }

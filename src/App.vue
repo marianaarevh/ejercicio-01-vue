@@ -2,19 +2,22 @@
   <div id="app">
     <MenuPrincipal/>
     <LandingPage />
+    <EnlaceVbind url="https://vuejs.org"/>
   </div>
 </template>
 
 <script>
-import LandingPage from './components/LandingPage.vue'
 import MenuPrincipal from './components/MenuPrincipal.vue'
+import LandingPage from './components/LandingPage.vue'
+import EnlaceVbind from './components/EnlaceVbind.vue'
 
 
 export default {
   name: 'App',
   components: {
     MenuPrincipal,
-    LandingPage
+    LandingPage,
+    EnlaceVbind
     
   }
 }
