@@ -5,6 +5,7 @@
             <ul>
                 <li><a href="#inicio">Inicio</a></li>
                 <li><a href="#introduccion">Introduccion</a></li>
+                <li><a href="#historia">Historia</a></li>
                 <li><a href="#caracteristicas">Caracteristicas</a></li>
             </ul>
         </nav>
